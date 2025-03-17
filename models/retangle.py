@@ -33,4 +33,4 @@ class Rectangle(Forme):
 
 
     def afficher_aire(self):
-        return self.aire()
+        return f"L'aire de ce rectangle est de" + str(self.aire())
