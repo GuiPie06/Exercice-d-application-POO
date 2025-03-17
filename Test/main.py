@@ -27,3 +27,6 @@ def creer_rectangle():
 
 
     return Rectangle(largeur, longueur)
+
+def afficher_aire_forme(forme):
+    if
